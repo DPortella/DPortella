@@ -8,3 +8,5 @@
   Com duas certificações Microsoft até o momento (AZ-900 e SC-900) e com outras na mira.
   
   Também consigo me virar usando Python :snake:.
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPortella)](https://github.com/anuraghazra/github-readme-stats)

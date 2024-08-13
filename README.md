@@ -1,7 +1,7 @@
 ### Olá, sou o Daniel 👋. Estudante de Cibersegurança e aspirante a analista de malwares
 
 # :computer: Sobre mim:
-  Atualmente, estou me aprofundando na linguagem C de programação e pretendo seguir a estudar nas áreas de engenharia reversa, Assembly e análise de malwares.
+  Atualmente, estou me aprofundando na linguagem C de programação e pretendo seguir a estudar nas áreas de engenharia reversa, Assembly e análise de malwares. :notebook:
 
   Sou técnico em redes de computadores e um bom manjador dos sitemas Cisco.
 
@@ -9,4 +9,5 @@
   
   Também consigo me virar usando Python :snake:.
 
+### :chart_with_upwards_trend: Estatísticas do GitHub
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPortella&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

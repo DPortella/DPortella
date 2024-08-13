@@ -1,4 +1,4 @@
-### Olá, sou o Daniel 👋. Estudante de Cibersegurança e aspirante a analista de malwares
+### Olá, sou o Daniel 👋. Estudante de Cibersegurança :lock: e aspirante a analista de malwares :warning:
 
 # :computer: Sobre mim:
   Atualmente, estou me aprofundando na linguagem C de programação e pretendo seguir a estudar nas áreas de engenharia reversa, Assembly e análise de malwares. :notebook:

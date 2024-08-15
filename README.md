@@ -35,11 +35,3 @@
 <div align="center">
   <img height="152" src="https://i.imgflip.com/8yrpxa.jpg"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DPortella/count.svg?"  />
-</div>
-
-###

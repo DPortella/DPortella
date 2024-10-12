@@ -22,7 +22,6 @@
   </a>
   <a href="mailto:d.portellaaraujo@gmail.com" title="Email" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
-    <img width="12" />
   </a>
 </div>
 

@@ -20,19 +20,18 @@
   <a href="https://tryhackme.com/p/DPortella" target="_blank" title="TryHackMe">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
-  <a href="mailto:d.portellaaraujo@gmail.com" title="Email" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  <a href="mailto:d.portellaaraujo@gmail.com" title="Email" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
+    <img width="12" />
   </a>
 </div>
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="30" height="30" /> **Programming languages**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="47" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="47" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="47" alt="html5 logo"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py&theme=light" height="50"/>
+    <img src="https://skillicons.dev/icons?i=c,bash,html" height="50"/>
+  </a>
 </div>
 
 ###

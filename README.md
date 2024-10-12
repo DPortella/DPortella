@@ -15,21 +15,23 @@
 ## 🌐 **Social**
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-portella-ara%C3%BAjo/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" hspace="5" alt="linkedin logo"  />
   </a>
   <a href="https://tryhackme.com/p/DPortella" target="_blank" title="TryHackMe">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" hspace="5" alt="tryhackme logo"  />
   </a>
   <a href="mailto:d.portellaaraujo@gmail.com" title="Email" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" hspace="5"/>
   </a>
 </div>
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="30" height="30" /> **Programming languages**
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py&theme=light" height="50"/>
-    <img src="https://skillicons.dev/icons?i=c,bash,html" height="50"/>
+    <img src="https://skillicons.dev/icons?i=py&theme=light" height="50" hspace="5" title="Python"/>
+    <img src="https://skillicons.dev/icons?i=c" height="50" hspace="5" title="C"/>
+    <img src="https://skillicons.dev/icons?i=bash" height="50" hspace="5" title="Bash"/>
+    <img src="https://skillicons.dev/icons?i=html" height="50" hspace="5" title="HTML5"/>
   </a>
 </div>
 

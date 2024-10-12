@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Sobre mim:</h3>Atualmente, estou me aprofundando na linguagem C de programação e pretendo seguir a estudar nas áreas de engenharia reversa, Assembly e análise de malwares.<br><br> Sou técnico em redes de computadores e um bom manjador dos sistemas Cisco.<br><br>  Com duas certificações Microsoft até o momento (AZ-900 e SC-900), Certified in Cybersecurity da ISC², Oracle Cloud Infrastructure Foundations Associate e com outras na mira.<br>  <br>  Também consigo me virar usando Python.
+<h3 align="left">👩‍💻 Sobre mim:</h3>Atualmente, estou me aprofundando na linguagem C de programação e pretendo seguir a estudar nas áreas de engenharia reversa, Assembly e análise de malwares.<br><br> Sou técnico em redes de computadores e um bom manjador dos sistemas Cisco.<br><br>  Com duas certificações Microsoft até o momento (AZ-900 e SC-900), Certified in Cybersecurity da ISC², Oracle Cloud Infrastructure Foundations Associate e com outras na mira.<br>  <br>  Também consigo me virar usando Python.
 
 ###
 

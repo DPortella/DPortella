@@ -30,7 +30,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py&theme=light" height="50" hspace="5" title="Python"/>
     <img src="https://skillicons.dev/icons?i=c" height="50" hspace="5" title="C"/>
-    <img src="https://skillicons.dev/icons?i=bash" height="50" hspace="5" title="Bash"/>
+    <img src="https://skillicons.dev/icons?i=bash&theme=light" height="50" hspace="5" title="Bash"/>
     <img src="https://skillicons.dev/icons?i=html" height="50" hspace="5" title="HTML5"/>
   </a>
 </div>

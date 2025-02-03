@@ -26,14 +26,24 @@
 </div>
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="30" height="30" /> **Programming languages**
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py&theme=light" height="50" hspace="5" title="Python"/>
-    <img src="https://skillicons.dev/icons?i=c" height="50" hspace="5" title="C"/>
-    <img src="https://skillicons.dev/icons?i=bash&theme=light" height="50" hspace="5" title="Bash"/>
-    <img src="https://skillicons.dev/icons?i=html" height="50" hspace="5" title="HTML5"/>
-  </a>
-</div>
+<table align=center style = "width: 100%">
+  <tr>
+      <td>Python</td>
+      <td><img src="https://skillicons.dev/icons?i=py&theme=light" height="50" hspace="5" title="Python"/></td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td><img src="https://skillicons.dev/icons?i=c" height="50" hspace="5" title="C"/></td>
+  </tr>
+  <tr>
+    <td>Bash</td>
+    <td><img src="https://skillicons.dev/icons?i=bash&theme=light" height="50" hspace="5" title="Bash"/></td>
+  </tr>
+  <tr>
+    <td>HTML5</td>
+    <td><img src="https://skillicons.dev/icons?i=html" height="50" hspace="5" title="HTML5"/></td>
+  </tr>
+</table>
 
 ###
 ###
